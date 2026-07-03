@@ -8,3 +8,4 @@ A machine learning model to predict house prices based on the Ames Housing datas
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+3. python main.py
